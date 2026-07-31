@@ -1,8 +1,5 @@
-# Student-Marks-Manager
+# Student-Marks-Manager (python)
 A beginner‑friendly yet complete CRUD application built entirely with Python file handling. This project demonstrates how to manage student records without relying on databases or external libraries, making it ideal for learning the fundamentals of persistence and data management.
-# Student Marks Manager (Python)
-
-A simple command-line tool to manage student records with marks, grades, and full CRUD operations using plain text files.
 
 ## Features
 - Add / Modify / Delete / View students
