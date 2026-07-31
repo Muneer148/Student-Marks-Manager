@@ -13,6 +13,10 @@ A beginner‑friendly yet complete CRUD application built entirely with Python f
 - No external libraries (uses only `open()`)
 
 ## Project Structure
+Student-Marks-Manager/
+├── README.md
+├── marks.txt
+├── Student_Marks_Manager.ipynb
 
 ## Installation & Running
 
@@ -28,6 +32,7 @@ A beginner‑friendly yet complete CRUD application built entirely with Python f
 ## Usage
 
 The program shows this menu every time:
+
 --- Student Marks Manager ---
 
 1. Add Student
